@@ -1,82 +1,105 @@
 🧪 Ingredient Safety Checker
 
-A web-based application that allows users to upload or capture images of product ingredient lists and detect harmful chemicals using OCR and a known-chemical database.
+A Flask-based web app that uses OCR (Tesseract) to extract and analyze ingredients from product labels, helping users identify harmful chemicals in personal care products.
 
------------------------
+-----------------------------------------------------
 🚀 Features
 
-- ✅ Upload or capture product label images
-- 🧠 Uses OCR (Tesseract) to extract ingredients
-- 🚩 Detects harmful, banned, or allergenic chemicals
-- 🔎 Shows detailed information on each harmful ingredient
-- 📦 Backend powered by Flask + Tesseract
-- 📱 Fully responsive front-end interface
+- Upload or capture product label images
+- Uses Tesseract OCR to detect text from ingredients
+- Detects harmful or banned chemicals
+- Gives health risk warnings and banned country info
+- Displays clean, formatted results in browser
+- Mobile-responsive interface (HTML + JS)
 
------------------------
-📁 Project Structure
+-----------------------------------------------------
+📁 Folder Structure
 
 ingredient-checker/
 ├── app.py                     # Flask backend
-├── harmful_ingredients.json   # Database of harmful ingredients
+├── harmful_ingredients.json   # Chemical database (editable)
 ├── requirements.txt           # Python dependencies
+├── LICENSE                    # MIT License
+├── .gitignore                 # Ignore unnecessary files
+├── README.txt                 # You're reading this!
 ├── templates/
-│   └── index.html             # Frontend HTML (Flask uses Jinja templates)
+│   └── index.html             # Frontend page (Flask uses Jinja2)
 ├── static/
-│   └── script.js              # JavaScript logic (OCR upload, display, etc.)
+│   └── script.js              # Handles image upload, camera capture, display
 
------------------------
-⚙️ Installation
+-----------------------------------------------------
+⚙️ Prerequisites
 
-1. Clone the repository:
-    git clone https://github.com/YOUR_USERNAME/ingredient-checker.git
-    cd ingredient-checker
+Make sure the following are installed:
 
-2. Set up a virtual environment (optional but recommended):
+- Python 3.8+
+- pip (Python package manager)
+- Tesseract OCR
+
+To install Tesseract:
+
+• Windows: https://github.com/tesseract-ocr/tesseract  
+• Ubuntu/Debian:
+    sudo apt update
+    sudo apt install tesseract-ocr
+
+-----------------------------------------------------
+▶️ How to Run Locally
+
+1. Clone the repo or extract the ZIP
+
+2. Open a terminal and navigate to the folder
+
+3. (Optional) Create a virtual environment:
     python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    source venv/bin/activate  (on Windows: venv\Scripts\activate)
 
-3. Install required packages:
+4. Install required packages:
     pip install -r requirements.txt
 
-4. Install Tesseract OCR:
-    - Windows: https://github.com/tesseract-ocr/tesseract
-    - Ubuntu/Debian:
-        sudo apt update
-        sudo apt install tesseract-ocr
-
------------------------
-▶️ Running the App Locally
-
+5. Run the app:
     python app.py
 
-Then open your browser at:
+6. Open your browser:
     http://localhost:5000
 
------------------------
-📦 Example Harmful Ingredient Entry
+-----------------------------------------------------
+📷 How to Use the App
+
+On the web page:
+
+1. 📤 Upload a photo of the ingredient label **OR**
+2. 📸 Use your device’s camera to capture it live
+3. 🔍 The app scans the image using OCR
+4. ⚠️ Highlights any harmful ingredients
+5. ✅ If none are found, it says the product appears safe
+
+📌 TIP: Upload a clear, focused image of the full ingredient list.
+
+-----------------------------------------------------
+🧪 Sample Ingredient Entry Format
+
+Each entry in `harmful_ingredients.json` looks like:
 
 {
   "ingredient": "Fragrance / Parfum",
-  "aliases": ["Fragrance", "Parfum"],
+  "aliases": ["Parfum", "Fragrance"],
   "risk_level": "Moderate",
-  "health_risks": ["Allergy", "Asthma", "Hormone imbalance"],
+  "health_risks": ["Asthma", "Hormone imbalance"],
   "banned_in": ["Partially restricted in EU"],
-  "reason": ["Often contains undisclosed phthalates and allergens"]
+  "reason": ["May contain undisclosed phthalates"]
 }
 
------------------------
-📸 Recommended Image Guidelines
+You can edit this file to expand or improve your chemical database.
 
-- Upload a clear, focused photo of the ingredient list
-- Blurry or partial images may return a warning
-- OCR works best on horizontal, well-lit images
-
------------------------
+-----------------------------------------------------
 👨‍💻 Created By
 
-Subathran J – for learning, awareness, and educational use.
+SUBATHRAN J  
+For education, health awareness, and software learning.
 
------------------------
+-----------------------------------------------------
 📄 License
 
-This project is open source and free to use for non-commercial, educational, and research purposes.
+MIT License — Free to use, modify, and share.
+See LICENSE file for full terms.
