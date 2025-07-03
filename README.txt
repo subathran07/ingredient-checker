@@ -53,19 +53,6 @@ Then open your browser at:
     http://localhost:5000
 
 -----------------------
-🌐 Deployment (Render)
-
-1. Push your code to GitHub.
-2. Go to https://render.com
-3. Choose New Web Service
-4. Connect your GitHub repo.
-5. Set build command:
-    pip install -r requirements.txt
-6. Set start command:
-    python app.py
-7. Deploy and you're live! 🎉
-
------------------------
 📦 Example Harmful Ingredient Entry
 
 {
