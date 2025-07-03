@@ -1,36 +1,248 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Ingredient Safety Checker</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <style>
     body {
-      font-family: Arial, sans-serif;
-      background: #f1f9f1;
-      text-align: center;
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(135deg, #f0f4f8, #e8f5e9);
+      margin: 0;
       padding: 20px;
+      color: #2c3e50;
+      text-align: center;
     }
-    #dropArea {
-      border: 2px dashed #4CAF50;
+
+    h1 {
+      color: #0d47a1;
+      text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+      font-size: 2em;
+      margin-bottom: 5px;
+    }
+
+    h2 {
+      color: #1565c0;
+      margin-bottom: 10px;
+      font-size: 1.3em;
+    }
+
+    p.subtitle {
+      color: #555;
+      font-size: 1em;
+      margin-bottom: 10px;
+    }
+
+    .note-box {
+      background-color: #fff3cd;
+      color: #856404;
+      padding: 12px 18px;
+      margin: 10px auto 25px;
+      border: 1px solid #ffeeba;
       border-radius: 10px;
-      padding: 30px;
-      margin: 20px;
-      background: #e8f5e9;
+      max-width: 750px;
+      font-size: 1em;
+      text-align: left;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
     }
-    #dropArea.dragover {
-      background-color: #c8e6c9;
+
+    .section {
+      background: white;
+      border-radius: 15px;
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
+      margin-bottom: 25px;
+      padding: 20px;
+      max-width: 750px;
+      margin-left: auto;
+      margin-right: auto;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .section:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    }
+
+    button, #uploadButton {
+      padding: 12px 20px;
+      font-size: 1em;
+      border-radius: 8px;
+      border: none;
+      cursor: pointer;
+      background: linear-gradient(45deg, #43a047, #66bb6a);
+      color: white;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      margin-top: 10px;
+      display: inline-block;
+    }
+
+    button:hover, #uploadButton:hover {
+      transform: scale(1.05);
+      box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+    }
+
+    #drop-area {
+      border: 2px dashed #64b5f6;
+      padding: 25px;
+      background-color: #e3f2fd;
+      cursor: pointer;
+      transition: background 0.3s ease, transform 0.2s ease;
+      font-size: 1em;
+      margin: auto;
+      max-width: 90%;
+    }
+
+    #drop-area:hover {
+      background-color: #bbdefb;
+      transform: scale(1.02);
+    }
+
+    #video {
+      border: 3px solid #90caf9;
+      border-radius: 8px;
+      margin-top: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      max-width: 320px;
+      height: auto;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    @media (max-width: 600px) {
+      #video {
+        max-width: 90%;
+      }
+    }
+
+    #status {
+      margin-top: 25px;
+      padding: 15px;
+      border-radius: 10px;
+      text-align: center;
+      white-space: pre-wrap;
+      max-width: 750px;
+      margin-left: auto;
+      margin-right: auto;
+      font-size: 1em;
+      animation: fadeIn 0.5s ease;
+    }
+
+    .success {
+      border-left: 6px solid #4caf50;
+      background-color: #e8f5e9;
+      color: #2e7d32;
+    }
+
+    .error {
+      border-left: 6px solid #e53935;
+      background-color: #ffebee;
+      color: #c62828;
+    }
+
+    .warning {
+      border-left: 6px solid #f9a825;
+      background-color: #fffde7;
+      color: #f57c00;
+    }
+
+    .highlight-verdict {
+      font-weight: bold;
+      font-size: 1.2em;
+      color: #d84315;
+    }
+
+    .highlight-note {
+      font-style: italic;
+      color: #1976d2;
+    }
+
+    #fileName {
+      margin-top: 8px;
+      color: #555;
+      font-style: italic;
+      font-size: 0.95em;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    footer {
+      margin-top: 30px;
+      color: #888;
+      font-size: 0.85em;
+      text-align: center;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        padding: 10px;
+      }
+
+      h1 {
+        font-size: 1.5em;
+      }
+
+      h2 {
+        font-size: 1.1em;
+      }
+
+      button, #uploadButton {
+        width: 90%;
+        padding: 10px;
+        font-size: 1em;
+      }
+
+      #drop-area {
+        padding: 20px;
+        font-size: 0.95em;
+      }
+
+      #status {
+        font-size: 0.95em;
+      }
     }
   </style>
 </head>
 <body>
+
   <h1>🧪 Ingredient Safety Checker</h1>
-  <input type="file" accept="image/*" id="imageInput" />
-  <button id="captureButton">📸 Capture Image</button>
-  <div id="dropArea">📤 Drag & Drop Image Here</div>
-  <video id="video" width="300" height="200" autoplay hidden></video>
-  <canvas id="canvas" width="300" height="200" hidden></canvas>
-  <div id="result"></div>
-  <script src="/static/script.js"></script>
+  <p class="subtitle">Quickly scan product ingredients for harmful chemicals</p>
+
+  <div class="note-box">
+    📝 <strong>Note:</strong> Upload a <strong>clear, focused image</strong> of the product's ingredient list for accurate results.
+  </div>
+
+  <div class="section">
+    <h2>📂 Upload an Image</h2>
+    <input type="file" id="upload" accept="image/*" style="display:none;">
+    <button id="uploadButton">📤 Select Image File</button>
+    <p id="fileName"></p>
+  </div>
+
+  <div class="section">
+    <h2>🖱️ Drag & Drop Image</h2>
+    <div id="drop-area">Drag and drop an image file here</div>
+  </div>
+
+  <div class="section">
+    <h2>📸 Capture Image from Camera</h2>
+    <video id="video" autoplay></video><br>
+    <button onclick="capture()">Capture Image</button>
+  </div>
+
+  <canvas id="canvas" style="display:none;"></canvas>
+
+  <div id="status"></div>
+
+  <footer>
+    © 2025 Ingredient Safety Checker | Built by <span style="color:#0d47a1; font-weight:bold; letter-spacing:1px;">SUBATHRAN J</span> for education and testing purposes.
+  </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>
