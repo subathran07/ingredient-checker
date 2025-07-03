@@ -6,6 +6,7 @@ import base64
 import io
 import json
 import re
+import os
 
 app = Flask(__name__)
 CORS(app)
@@ -100,9 +101,6 @@ def check_image():
         "safe": True,
         "message": "✅ No harmful ingredients found. Product appears to be safe."
     })
-
-if __name__ == '__main__':
-    import os
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 10000))
