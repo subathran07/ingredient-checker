@@ -1,0 +1,4537 @@
+[
+  {
+    "ingredient": "Methylparaben",
+    "aliases": [
+      "Parabens",
+      "Ethylparaben",
+      "Butylparaben",
+      "Propylparaben"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Hormone disruption",
+      "Fertility issues"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Can mimic estrogen and disrupt endocrine system"
+    ]
+  },
+  {
+    "ingredient": "Formaldehyde and Formaldehyde Releasers",
+    "aliases": [
+      "DMDM Hydantoin",
+      "Quaternium-15",
+      "Formalin",
+      "Methanal",
+      "Diazolidinyl Urea",
+      "Imidazolidinyl Urea",
+      "Bromopol"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer",
+      "Respiratory damage",
+      "Skin allergies"
+    ],
+    "banned_in": [
+      "EU",
+      "Japan"
+    ],
+    "reason": [
+      "Releases formaldehyde, a known carcinogen and allergen"
+    ]
+  },
+  {
+    "ingredient": "Triclosan",
+    "aliases": [
+      "Irgasan",
+      "Lexol 300"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Hormone disruption",
+      "Antibiotic resistance"
+    ],
+    "banned_in": [
+      "US",
+      "EU"
+    ],
+    "reason": [
+      "Interferes with thyroid function and bacterial resistance"
+    ]
+  },
+  {
+    "ingredient": "Sodium Lauryl Sulfate and Sodium Laureth Sulfate",
+    "aliases": [
+      "SLS",
+      "SLES"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation",
+      "Eye irritation",
+      "1,4-Dioxane contamination risk"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Can strip natural oils and may contain carcinogenic impurities"
+    ]
+  },
+  {
+    "ingredient": "DEP and Phthalates",
+    "aliases": [
+      "DBP",
+      "Diethyl Phthalate",
+      "Dibutyl Phthalate",
+      "Fragrance (hidden)"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Hormone disruption",
+      "Birth defects"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Endocrine disruptors affecting development and fertility"
+    ]
+  },
+  {
+    "ingredient": "BHA and BHT",
+    "aliases": [
+      "Butylated Hydroxyanisole",
+      "Butylated Hydroxytoluene"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Carcinogenic potential"
+    ],
+    "banned_in": [
+      "EU",
+      "Canada"
+    ],
+    "reason": [
+      "Possible human carcinogens with long-term exposure"
+    ]
+  },
+  {
+    "ingredient": "PEG Compounds",
+    "aliases": [
+      "PEG-100 Stearate",
+      "PEG-40 Hydrogenated Castor Oil",
+      "Polyethylene Glycol"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Carcinogen contamination risk"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "May contain ethylene oxide and 1,4-dioxane"
+    ]
+  },
+  {
+    "ingredient": "Toluene",
+    "aliases": [
+      "Methylbenzene",
+      "Phenylmethane"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Nervous system damage"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Neurotoxin and developmental toxicant"
+    ]
+  },
+  {
+    "ingredient": "Synthetic Colorants (FD&C dyes)",
+    "aliases": [
+      "FD&C Red No. 40",
+      "Yellow 5",
+      "Blue 1",
+      "Colorants (Red 33, Yellow 5)"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Cancer risk",
+      "Hyperactivity in children"
+    ],
+    "banned_in": [
+      "Some banned in EU"
+    ],
+    "reason": [
+      "Petroleum-derived dyes with known toxicity concerns"
+    ]
+  },
+  {
+    "ingredient": "Fragrance / Parfum",
+    "aliases": [
+      "Aroma",
+      "Perfume",
+      "Essential Oils (undisclosed blend)"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Allergy",
+      "Asthma",
+      "Hormone imbalance"
+    ],
+    "banned_in": [
+      "Partially restricted in EU"
+    ],
+    "reason": [
+      "Often contains undisclosed phthalates and allergens"
+    ]
+  },
+  {
+    "ingredient": "Phenoxyethanol",
+    "aliases": [
+      "Ethylene Glycol Monophenyl Ether"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Nervous system effects in infants"
+    ],
+    "banned_in": [
+      "Japan",
+      "EU"
+    ],
+    "reason": [
+      "Toxic in high doses, especially to infants"
+    ]
+  },
+  {
+    "ingredient": "Methylisothiazolinone (MIT)",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Skin allergies",
+      "Neurotoxicity"
+    ],
+    "banned_in": [
+      "EU (leave-on products)"
+    ],
+    "reason": [
+      "Linked to allergic reactions and nerve damage"
+    ]
+  },
+  {
+    "ingredient": "Petrolatum",
+    "aliases": [
+      "Mineral Oil",
+      "Paraffinum Liquidum",
+      "White Petrolatum"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Carcinogen contamination risk"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Can contain polycyclic aromatic hydrocarbons (PAHs)"
+    ]
+  },
+  {
+    "ingredient": "Oxybenzone and Octinoxate",
+    "aliases": [
+      "Benzophenone-3",
+      "BP-3",
+      "Octyl Methoxycinnamate"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Hormone disruption",
+      "Allergic reactions",
+      "Coral reef damage"
+    ],
+    "banned_in": [
+      "EU",
+      "Hawaii"
+    ],
+    "reason": [
+      "Endocrine disruptors and environmental pollutants"
+    ]
+  },
+  {
+    "ingredient": "Coal Tar",
+    "aliases": [
+      "CI 77266",
+      "D&C Black No. 1"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer",
+      "Skin irritation"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Classified as carcinogenic with long-term exposure"
+    ]
+  },
+  {
+    "ingredient": "Talc (with asbestos contamination)",
+    "aliases": [
+      "Hydrated Magnesium Silicate"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Ovarian cancer",
+      "Lung issues"
+    ],
+    "banned_in": [
+      "EU (if contaminated with asbestos)"
+    ],
+    "reason": [
+      "Risk of asbestos contamination"
+    ]
+  },
+  {
+    "ingredient": "Resorcinol",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Endocrine disruption",
+      "Skin irritation"
+    ],
+    "banned_in": [
+      "EU (restricted use)"
+    ],
+    "reason": [
+      "Affects thyroid and causes allergic reactions"
+    ]
+  },
+  {
+    "ingredient": "Aluminum Compounds",
+    "aliases": [
+      "Aluminum Chlorohydrate",
+      "Aluminum Zirconium"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Neurotoxicity",
+      "Breast cancer link"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Concerns over accumulation in brain and breast tissue"
+    ]
+  },
+  {
+    "ingredient": "Benzalkonium Chloride",
+    "aliases": [
+      "BAC"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin and eye irritation",
+      "Respiratory issues"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Can cause allergic reactions with long-term use"
+    ]
+  },
+  {
+    "ingredient": "Tetracyclines (in anti-acne meds)",
+    "aliases": [
+      "Oxytetracycline",
+      "Minocycline"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Antibiotic resistance",
+      "Photosensitivity"
+    ],
+    "banned_in": [
+      "Restricted medical use in cosmetics"
+    ],
+    "reason": [
+      "Linked to antibiotic overuse and UV sensitivity"
+    ]
+  },
+  {
+    "ingredient": "Hydroquinone",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Skin irritation",
+      "Cancer risk"
+    ],
+    "banned_in": [
+      "EU",
+      "Japan",
+      "Australia"
+    ],
+    "reason": [
+      "Causes ochronosis and may be carcinogenic"
+    ]
+  },
+  {
+    "ingredient": "Isobutane",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Inhalation risk",
+      "Respiratory irritation"
+    ],
+    "banned_in": [
+      "Restricted in EU aerosols"
+    ],
+    "reason": [
+      "Can be contaminated with 1,3-butadiene"
+    ]
+  },
+  {
+    "ingredient": "Polyacrylamide",
+    "aliases": [
+      "Acrylamide Polymers"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Neurotoxicity",
+      "Cancer risk"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "May contain acrylamide residues"
+    ]
+  },
+  {
+    "ingredient": "Ethanolamines",
+    "aliases": [
+      "DEA",
+      "TEA",
+      "MEA",
+      "Triethanolamine"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer",
+      "Organ toxicity"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Can form carcinogenic nitrosamines"
+    ]
+  },
+  {
+    "ingredient": "P-Phenylenediamine (PPD)",
+    "aliases": [
+      "1,4-Benzenediamine"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Severe allergies",
+      "Organ toxicity"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Potent allergen used in hair dyes"
+    ]
+  },
+  {
+    "ingredient": "Benzophenone",
+    "aliases": [
+      "BP",
+      "Benzophenone-1",
+      "Benzophenone-2",
+      "Benzophenone-4"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer",
+      "Endocrine disruption"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Hormone disruptor and carcinogen in animal studies"
+    ]
+  },
+  {
+    "ingredient": "Limonene",
+    "aliases": [
+      "Dipentene"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation",
+      "Allergic reactions"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Oxidizes and becomes a strong allergen"
+    ]
+  },
+  {
+    "ingredient": "Linalool",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation",
+      "Allergies"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Can oxidize and trigger allergies"
+    ]
+  },
+  {
+    "ingredient": "Geraniol",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Allergic reactions",
+      "Skin irritation"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Common fragrance allergen"
+    ]
+  },
+  {
+    "ingredient": "Sodium Fluoride",
+    "aliases": [
+      "Fluoride"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Neurotoxicity",
+      "Dental fluorosis"
+    ],
+    "banned_in": [
+      "Restricted in some countries"
+    ],
+    "reason": [
+      "Toxic in high doses"
+    ]
+  },
+  {
+    "ingredient": "Chloroxylenol",
+    "aliases": [
+      "PCMX"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation",
+      "Endocrine disruption"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Used in antiseptic soaps; linked to hormonal effects"
+    ]
+  },
+  {
+    "ingredient": "Stearalkonium Chloride",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Irritating in high concentrations"
+    ]
+  },
+  {
+    "ingredient": "Synthetic Musks",
+    "aliases": [
+      "Nitromusk",
+      "Polycyclic musk"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Hormone disruption",
+      "Bioaccumulation"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Endocrine disruption and environmental persistence"
+    ]
+  },
+  {
+    "ingredient": "Quaternium-18",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin sensitivity",
+      "Formaldehyde release"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Releases formaldehyde; linked to allergies"
+    ]
+  },
+  {
+    "ingredient": "Sodium Hydroxide",
+    "aliases": [
+      "Lye",
+      "Caustic Soda"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin burns",
+      "Eye damage"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Highly caustic"
+    ]
+  },
+  {
+    "ingredient": "Ammonium Laureth Sulfate",
+    "aliases": [
+      "ALES"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Can strip oils and cause irritation"
+    ]
+  },
+  {
+    "ingredient": "Butoxyethanol",
+    "aliases": [
+      "Ethylene Glycol Monobutyl Ether"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Liver and kidney damage",
+      "Reproductive toxicity"
+    ],
+    "banned_in": [
+      "EU (in cosmetics)"
+    ],
+    "reason": [
+      "Toxic solvent"
+    ]
+  },
+  {
+    "ingredient": "Chlorphenesin",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Nervous system effects",
+      "Skin irritation"
+    ],
+    "banned_in": [
+      "Restricted in Japan"
+    ],
+    "reason": [
+      "Preservative with potential neurotoxicity"
+    ]
+  },
+  {
+    "ingredient": "Styrene",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer",
+      "Organ toxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Probable human carcinogen"
+    ]
+  },
+  {
+    "ingredient": "Retinyl Palmitate",
+    "aliases": [
+      "Vitamin A Palmitate"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Sun sensitivity",
+      "Possible tumor growth"
+    ],
+    "banned_in": [
+      "Restricted in some sunscreens"
+    ],
+    "reason": [
+      "May speed tumor development under UV"
+    ]
+  },
+  {
+    "ingredient": "Methoxyethanol",
+    "aliases": [
+      "2-Methoxyethanol"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Reproductive toxicity",
+      "Developmental issues"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Toxic solvent in nail polish"
+    ]
+  },
+  {
+    "ingredient": "Lead and Lead Compounds",
+    "aliases": [
+      "Lead Acetate",
+      "Lead Sulfate"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Neurotoxicity",
+      "Developmental toxicity",
+      "Reproductive issues"
+    ],
+    "banned_in": [
+      "EU",
+      "Canada"
+    ],
+    "reason": [
+      "Known neurotoxin affecting brain and nervous system"
+    ]
+  },
+  {
+    "ingredient": "Mercury Compounds",
+    "aliases": [
+      "Mercury Chloride",
+      "Thiomersal",
+      "Mercurous Chloride"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Kidney damage",
+      "Neurotoxicity",
+      "Skin discoloration"
+    ],
+    "banned_in": [
+      "US",
+      "EU",
+      "Japan"
+    ],
+    "reason": [
+      "Toxic heavy metal with severe neurological effects"
+    ]
+  },
+  {
+    "ingredient": "Paraffin Oils",
+    "aliases": [
+      "Liquid Paraffin",
+      "Paraffinum Liquidum"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Carcinogen contamination risk",
+      "Skin suffocation"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "May contain PAHs and block skin respiration"
+    ]
+  },
+  {
+    "ingredient": "Siloxanes",
+    "aliases": [
+      "Cyclotetrasiloxane",
+      "Cyclopentasiloxane (D5)"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Endocrine disruption",
+      "Reproductive toxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Persistent, bioaccumulative and toxic to reproduction"
+    ]
+  },
+  {
+    "ingredient": "Perfluorinated Compounds (PFCs)",
+    "aliases": [
+      "PFAS",
+      "PTFE",
+      "Perfluoroalkyl substances"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer",
+      "Immune system effects",
+      "Hormone disruption"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Linked to cancer, hormone issues and environmental toxicity"
+    ]
+  },
+  {
+    "ingredient": "Ethoxylated Surfactants",
+    "aliases": [
+      "Polysorbates",
+      "Ceteareth",
+      "Laureth-4"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "1,4-Dioxane contamination risk",
+      "Skin irritation"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "May contain carcinogenic contaminants like 1,4-dioxane"
+    ]
+  },
+  {
+    "ingredient": "Sodium Borate (Borax)",
+    "aliases": [
+      "Borax",
+      "Sodium Tetraborate"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Reproductive toxicity",
+      "Skin irritation"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Toxic to reproductive health and development"
+    ]
+  },
+  {
+    "ingredient": "Lanolin (Contaminated)",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Pesticide contamination",
+      "Skin allergies"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "May contain pesticide residues unless highly purified"
+    ]
+  },
+  {
+    "ingredient": "Nitrosamines",
+    "aliases": [
+      "NDELA",
+      "NDEA",
+      "NDMA"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer",
+      "Organ toxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Strong carcinogens formed as by-products in cosmetics"
+    ]
+  },
+  {
+    "ingredient": "Chlorine and Chlorinated Compounds",
+    "aliases": [
+      "Chlorinated paraffins",
+      "Chlorhexidine"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer risk",
+      "Organ toxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Linked to cancer and bioaccumulation"
+    ]
+  },
+  {
+    "ingredient": "Phenol",
+    "aliases": [
+      "Carbolic Acid"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Skin burns",
+      "Organ toxicity",
+      "Respiratory issues"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Severe irritant and toxic on systemic exposure"
+    ]
+  },
+  {
+    "ingredient": "Glutaraldehyde",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Respiratory issues",
+      "Skin sensitization"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Known respiratory sensitizer and toxic if inhaled"
+    ]
+  },
+  {
+    "ingredient": "Methenamine",
+    "aliases": [
+      "Hexamethylenetetramine"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Formaldehyde release",
+      "Skin irritation"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Releases formaldehyde, a known allergen and carcinogen"
+    ]
+  },
+  {
+    "ingredient": "Chloroacetamide",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Skin sensitization",
+      "Allergic reactions"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Classified as skin sensitizer and potential allergen"
+    ]
+  },
+  {
+    "ingredient": "Sodium Nitrate",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Nitrosamine formation",
+      "Cancer risk"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Can react with amines to form carcinogenic nitrosamines"
+    ]
+  },
+  {
+    "ingredient": "Polytetrafluoroethylene (PTFE)",
+    "aliases": [
+      "Teflon"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Lung irritation",
+      "Potential carcinogen"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Linked to respiratory issues when inhaled as particles"
+    ]
+  },
+  {
+    "ingredient": "Acrylates Copolymers",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation",
+      "Allergic contact dermatitis"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Can cause skin sensitization especially in sensitive individuals"
+    ]
+  },
+  {
+    "ingredient": "Zinc Oxide (Nanoform)",
+    "aliases": [
+      "Nano Zinc Oxide"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Lung irritation",
+      "Cellular damage (inhalation)"
+    ],
+    "banned_in": [
+      "Restricted in EU (for spray products)"
+    ],
+    "reason": [
+      "Toxic when inhaled in nanoparticle form"
+    ]
+  },
+  {
+    "ingredient": "Alkylphenol Ethoxylates",
+    "aliases": [
+      "Nonylphenol Ethoxylate",
+      "Octylphenol Ethoxylate"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Endocrine disruption",
+      "Reproductive harm"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Persistent environmental pollutants and hormone disruptors"
+    ]
+  },
+  {
+    "ingredient": "Diazolidinyl Urea",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Formaldehyde release",
+      "Skin irritation"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Releases formaldehyde and linked to allergic skin reactions"
+    ]
+  },
+  {
+    "ingredient": "Triethanolamine Lauryl Sulfate",
+    "aliases": [
+      "TEA-Lauryl Sulfate"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Nitrosamine formation",
+      "Skin irritation"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Can form carcinogenic nitrosamines"
+    ]
+  },
+  {
+    "ingredient": "Carbomer (Impure Grades)",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Eye irritation",
+      "Respiratory irritation"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Can cause irritation if inhaled as dust"
+    ]
+  },
+  {
+    "ingredient": "Ethylhexyl Methoxycinnamate",
+    "aliases": [
+      "Octinoxate"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Endocrine disruption",
+      "Reproductive toxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Hormone disruptor with environmental toxicity"
+    ]
+  },
+  {
+    "ingredient": "Propylene Glycol",
+    "aliases": [
+      "PG"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation",
+      "Allergic reactions"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Can cause allergic dermatitis in sensitive individuals"
+    ]
+  },
+  {
+    "ingredient": "Silica (Crystalline Form)",
+    "aliases": [
+      "Crystalline Silica"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Lung cancer",
+      "Respiratory issues"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Known human carcinogen when inhaled as dust"
+    ]
+  },
+  {
+    "ingredient": "Benzyl Alcohol",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation",
+      "Neurotoxicity (in infants)"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Can be toxic in large amounts especially for infants"
+    ]
+  },
+  {
+    "ingredient": "Titanium Dioxide (Nanoform)",
+    "aliases": [
+      "Nano Titanium Dioxide"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Lung cancer risk (inhalation)",
+      "Respiratory damage"
+    ],
+    "banned_in": [
+      "Restricted in EU (in spray/aerosols)"
+    ],
+    "reason": [
+      "Carcinogenic when inhaled in nanoparticle form"
+    ]
+  },
+  {
+    "ingredient": "Dimethicone Copolyol",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Silicone buildup",
+      "Skin barrier interference"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Concerns over accumulation and barrier disruption"
+    ]
+  },
+  {
+    "ingredient": "Benzyl Salicylate",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Endocrine disruption",
+      "Skin sensitization"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Suspected hormone disruptor and allergen"
+    ]
+  },
+  {
+    "ingredient": "Coumarin",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Liver toxicity",
+      "Allergic reactions"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Linked to liver damage in animal studies"
+    ]
+  },
+  {
+    "ingredient": "Ethylparaben",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Hormone disruption",
+      "Reproductive toxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Endocrine disruptor (part of parabens family)"
+    ]
+  },
+  {
+    "ingredient": "Hexyl Cinnamal",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin allergies",
+      "Respiratory irritation"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Common fragrance allergen"
+    ]
+  },
+  {
+    "ingredient": "Benzophenone-4",
+    "aliases": [
+      "Sulisobenzone"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Hormone disruption",
+      "Organ toxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Linked to hormonal disruption and organ effects"
+    ]
+  },
+  {
+    "ingredient": "CI 19140",
+    "aliases": [
+      "FD&C Yellow No. 5",
+      "Tartrazine"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Hyperactivity in children",
+      "Allergic reactions"
+    ],
+    "banned_in": [
+      "Some EU restrictions"
+    ],
+    "reason": [
+      "Synthetic dye linked to behavioral issues in children"
+    ]
+  },
+  {
+    "ingredient": "Bismuth Oxychloride",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation",
+      "Pore clogging"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Known to cause cystic acne in sensitive skin types"
+    ]
+  },
+  {
+    "ingredient": "Chloromethylisothiazolinone (CMIT)",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Severe allergic reactions",
+      "Skin sensitization"
+    ],
+    "banned_in": [
+      "EU (leave-on products)"
+    ],
+    "reason": [
+      "Highly sensitizing preservative"
+    ]
+  },
+  {
+    "ingredient": "Alkylbenzene Sulfonate",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Skin irritation",
+      "Aquatic toxicity"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Harsh detergent and pollutant"
+    ]
+  },
+  {
+    "ingredient": "Cocamide DEA",
+    "aliases": [
+      "Cocamide Diethanolamine"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer risk",
+      "Organ toxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Forms carcinogenic nitrosamines"
+    ]
+  },
+  {
+    "ingredient": "Nitrocellulose",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Respiratory irritation",
+      "Flammability risk"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Flammable and irritating in aerosol products"
+    ]
+  },
+  {
+    "ingredient": "Lauramide DEA",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer risk",
+      "Organ toxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Forms carcinogenic nitrosamines"
+    ]
+  },
+  {
+    "ingredient": "Ethylene Oxide",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Carcinogenic",
+      "Respiratory issues"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Used to sterilize ingredients; carcinogenic gas"
+    ]
+  },
+  {
+    "ingredient": "Naphthalene",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer",
+      "Skin irritation"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Mothball chemical linked to leukemia"
+    ]
+  },
+  {
+    "ingredient": "Perchloroethylene",
+    "aliases": [
+      "Tetrachloroethylene"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Neurotoxicity",
+      "Cancer"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Dry-cleaning solvent; probable carcinogen"
+    ]
+  },
+  {
+    "ingredient": "Dioxane (1,4-dioxane)",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer"
+    ],
+    "banned_in": [
+      "EU restrict"
+    ],
+    "reason": [
+      "Contaminant from ethoxylation; known carcinogen"
+    ]
+  },
+  {
+    "ingredient": "Hexachlorophene",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Neurotoxicity",
+      "Skin irritation"
+    ],
+    "banned_in": [
+      "EU",
+      "US restrict"
+    ],
+    "reason": [
+      "Antibacterial agent; neurotoxic"
+    ]
+  },
+  {
+    "ingredient": "Formamidopyrimidine",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin sensitization"
+    ],
+    "banned_in": [
+      "EU restrict"
+    ],
+    "reason": [
+      "Degradation product with sensitizing potential"
+    ]
+  },
+  {
+    "ingredient": "Chloromethane",
+    "aliases": [
+      "Methyl Chloride"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Neurotoxicity",
+      "Carcinogen"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Used as propellant; toxic gas"
+    ]
+  },
+  {
+    "ingredient": "Chlorobenzene",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Liver toxicity",
+      "Cancer"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Solvent linked to organ toxicity"
+    ]
+  },
+  {
+    "ingredient": "Brominated Flame Retardants",
+    "aliases": [
+      "PBDEs"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Endocrine disruption",
+      "Neurotoxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Persistant pollutants in dust and products"
+    ]
+  },
+  {
+    "ingredient": "Perchlorate",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Thyroid disruption"
+    ],
+    "banned_in": [
+      "EU restrict"
+    ],
+    "reason": [
+      "Environmental contaminant affecting hormones"
+    ]
+  },
+  {
+    "ingredient": "Ethyl Acrylate",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Skin irritation",
+      "Cancer risk"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Monomer used in polymers; carcinogenic"
+    ]
+  },
+  {
+    "ingredient": "Isopropyl Alcohol",
+    "aliases": [
+      "IPA"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Drying/irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Common solvent; can dry skin"
+    ]
+  },
+  {
+    "ingredient": "Methylene Chloride",
+    "aliases": [
+      "Dichloromethane"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer",
+      "Neurotoxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Paint stripper solvent; carcinogen"
+    ]
+  },
+  {
+    "ingredient": "N-Propylparaben",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Endocrine disruption"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Paraben variant similar to others"
+    ]
+  },
+  {
+    "ingredient": "Butyl Cellosolve",
+    "aliases": [
+      "2-Butoxyethanol"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Liver/kidney damage"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Solvent toxic to organs"
+    ]
+  },
+  {
+    "ingredient": "Ethyl Cellosolve",
+    "aliases": [
+      "2-Ethoxyethanol"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Reproductive toxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Solvent harmful to reproduction"
+    ]
+  },
+  {
+    "ingredient": "Ethylene Glycol Monomethyl Ether",
+    "aliases": [
+      "Methyl Cellosolve"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Blood disorders",
+      "Reproductive toxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Solvent linked to blood harm"
+    ]
+  },
+  {
+    "ingredient": "Nitroglycerin",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Cardiovascular issues"
+    ],
+    "banned_in": [
+      "No cosmetic use"
+    ],
+    "reason": [
+      "Explosive nitrate; not safe in cosmetics"
+    ]
+  },
+  {
+    "ingredient": "Propanolamine",
+    "aliases": [
+      "Propylamine"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Organ toxicity",
+      "Irritation"
+    ],
+    "banned_in": [
+      "EU restrict"
+    ],
+    "reason": [
+      "Can form nitrosamines with nitrates"
+    ]
+  },
+  {
+    "ingredient": "Sodium Dichloroisocyanurate",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin/eye irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Disinfectant that can irritate"
+    ]
+  },
+  {
+    "ingredient": "Thioglycolic Acid",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Respiratory damage",
+      "Skin burns"
+    ],
+    "banned_in": [
+      "EU restrict"
+    ],
+    "reason": [
+      "Used in hair removal; corrosive"
+    ]
+  },
+  {
+    "ingredient": "Urea (stabilized with formaldehyde)",
+    "aliases": [
+      "Formaldehyde-releasing urea"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Formaldehyde exposure"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Releases carcinogen"
+    ]
+  },
+  {
+    "ingredient": "Vinyl Chloride",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Monomer; known carcinogen"
+    ]
+  },
+  {
+    "ingredient": "Xylene",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Neurotoxicity"
+    ],
+    "banned_in": [
+      "EU restrict"
+    ],
+    "reason": [
+      "Solvent affecting nervous system"
+    ]
+  },
+  {
+    "ingredient": "Ethylenediamine",
+    "aliases": [
+      "EDA"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Skin irritation",
+      "Organ toxicity"
+    ],
+    "banned_in": [
+      "EU restrict"
+    ],
+    "reason": [
+      "Can form nitrosamines"
+    ]
+  },
+  {
+    "ingredient": "N,N-Diethanolamine",
+    "aliases": [
+      "DEA"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Carcinogenic nitrosamines"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Precursor to carcinogens"
+    ]
+  },
+  {
+    "ingredient": "Octocrylene",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Hormone disruption"
+    ],
+    "banned_in": [
+      "EU restrict"
+    ],
+    "reason": [
+      "UV filter with endocrine concerns"
+    ]
+  },
+  {
+    "ingredient": "Butylparaben",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Endocrine disruption"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Stronger paraben variant"
+    ]
+  },
+  {
+    "ingredient": "Sodium Metabisulfite",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Respiratory allergies"
+    ],
+    "banned_in": [
+      "EU restrict"
+    ],
+    "reason": [
+      "Preservative causing asthma"
+    ]
+  },
+  {
+    "ingredient": "Phenylmercuric Nitrate",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Mercury toxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Mercury-based preservative"
+    ]
+  },
+  {
+    "ingredient": "Perfluorooctanesulfonic Acid",
+    "aliases": [
+      "PFOS"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Bioaccumulation",
+      "Cancer"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Persistent frequent pollutant"
+    ]
+  },
+  {
+    "ingredient": "Perfluorooctanoic Acid",
+    "aliases": [
+      "PFOA"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer",
+      "Hormone disruption"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Persistent toxic pollutant"
+    ]
+  },
+  {
+    "ingredient": "Tricresyl Phosphate",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Neurological damage"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Plasticizer nerve toxin"
+    ]
+  },
+  {
+    "ingredient": "Naphthenic Acid",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation"
+    ],
+    "banned_in": [
+      "EU restrict"
+    ],
+    "reason": [
+      "Petroleum byproduct irritant"
+    ]
+  },
+  {
+    "ingredient": "Acetone",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Drying",
+      "Respiratory irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Common solvent; irritant"
+    ]
+  },
+  {
+    "ingredient": "Acrolein",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Carcinogenic",
+      "Respiratory damage"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Combustion by-product; toxic gas"
+    ]
+  },
+  {
+    "ingredient": "Benzo[a]pyrene",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Carcinogen"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "PAH known cancer-causing substance"
+    ]
+  },
+  {
+    "ingredient": "Chlorinated Paraffins",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Endocrine disruption"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Persistent pollutants"
+    ]
+  },
+  {
+    "ingredient": "Coal-Derived Paraffins",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "PAH contamination"
+    ],
+    "banned_in": [
+      "Restricted"
+    ],
+    "reason": [
+      "May contain impurities"
+    ]
+  },
+  {
+    "ingredient": "Diethylene Glycol",
+    "aliases": [
+      "DEG"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Kidney toxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Contaminant solvent"
+    ]
+  },
+  {
+    "ingredient": "Hexane",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Neurotoxicity"
+    ],
+    "banned_in": [
+      "EU restrict"
+    ],
+    "reason": [
+      "Degreaser; nerve damaging solvent"
+    ]
+  },
+  {
+    "ingredient": "Pentachlorophenol",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer",
+      "Endocrine disruption"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Wood preservative toxin"
+    ]
+  },
+  {
+    "ingredient": "Triclocarban",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Endocrine disruption"
+    ],
+    "banned_in": [
+      "US",
+      "EU"
+    ],
+    "reason": [
+      "Antibacterial linked to hormone issues"
+    ]
+  },
+  {
+    "ingredient": "Nonylphenol",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Endocrine disruption"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Degrades from ethoxylates"
+    ]
+  },
+  {
+    "ingredient": "Nitrobenzene",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer",
+      "Neurotoxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Industrial solvent toxic"
+    ]
+  },
+  {
+    "ingredient": "Phthalic Acid",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Endocrine disruption"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Phthalate breakdown product toxic"
+    ]
+  },
+  {
+    "ingredient": "Phenylenediamine",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Allergic reactions"
+    ],
+    "banned_in": [
+      "EU restrict"
+    ],
+    "reason": [
+      "Hair dye allergen"
+    ]
+  },
+  {
+    "ingredient": "Tetrabromobisphenol A",
+    "aliases": [
+      "TBBPA"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Endocrine disruption"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Flame retardant bioaccumulative"
+    ]
+  },
+  {
+    "ingredient": "Vinyl Acetate",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Lung cancer"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Polymer monomer; carcinogenic"
+    ]
+  },
+  {
+    "ingredient": "Ziram",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Reproductive toxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Fungicide and preservative toxic"
+    ]
+  },
+  {
+    "ingredient": "Ammonium Sulfate",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin and eye irritation"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Harsh surfactant; can disrupt skin pH"
+    ]
+  },
+  {
+    "ingredient": "Isopropyl Palmitate",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Pore clogging",
+      "Acne"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Comedogenic agent in oily skin types"
+    ]
+  },
+  {
+    "ingredient": "Aminomethyl Propanol",
+    "aliases": [
+      "AMP"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin sensitization",
+      "Eye irritation"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Used as pH adjuster; irritant at high levels"
+    ]
+  },
+  {
+    "ingredient": "Triisopropanolamine",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation",
+      "Organ toxicity"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Can form nitrosamines"
+    ]
+  },
+  {
+    "ingredient": "Steareth-20",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "1,4-Dioxane contamination risk"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Ethoxylated compound with carcinogen risk"
+    ]
+  },
+  {
+    "ingredient": "Lauryl Alcohol",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin dryness",
+      "Irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Fatty alcohol that may irritate skin in high doses"
+    ]
+  },
+  {
+    "ingredient": "Caprylyl Glycol",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Preservative that can cause sensitivity"
+    ]
+  },
+  {
+    "ingredient": "Sodium Chloride (in high concentrations)",
+    "aliases": [
+      "Salt"
+    ],
+    "risk_level": "Low",
+    "health_risks": [
+      "Skin dehydration",
+      "Scalp irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Used as thickener; can dry out hair and scalp"
+    ]
+  },
+  {
+    "ingredient": "Phenylpropanol",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation",
+      "Sensitization"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Fragrance component with allergenic potential"
+    ]
+  },
+  {
+    "ingredient": "Disodium EDTA",
+    "aliases": [
+      "EDTA"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin penetration enhancer",
+      "Irritation"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Enhances absorption of other harmful ingredients"
+    ]
+  },
+  {
+    "ingredient": "Hexylene Glycol",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Eye irritation",
+      "Skin dryness"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Solvent with potential for irritation"
+    ]
+  },
+  {
+    "ingredient": "Dimethyl Isosorbide",
+    "aliases": [],
+    "risk_level": "Low",
+    "health_risks": [
+      "Skin sensitization"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Can penetrate deep into skin and carry toxins"
+    ]
+  },
+  {
+    "ingredient": "Polyquaternium-10",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Allergic reactions"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Synthetic polymer with skin sensitizing potential"
+    ]
+  },
+  {
+    "ingredient": "PEG-20 Glyceryl Triisostearate",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Ethylene oxide contamination risk"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "May contain 1,4-dioxane and ethylene oxide"
+    ]
+  },
+  {
+    "ingredient": "BHT Butylated Hydroxytoluene",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Hormone disruption",
+      "Liver toxicity"
+    ],
+    "banned_in": [
+      "EU",
+      "Canada"
+    ],
+    "reason": [
+      "Synthetic antioxidant suspected to be carcinogenic"
+    ]
+  },
+  {
+    "ingredient": "Potassium Sorbate",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation",
+      "Eye irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Preservative that may irritate mucous membranes"
+    ]
+  },
+  {
+    "ingredient": "Magnesium Aluminum Silicate",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Respiratory irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Used in powders; inhalation concern"
+    ]
+  },
+  {
+    "ingredient": "Sodium PCA",
+    "aliases": [],
+    "risk_level": "Low",
+    "health_risks": [
+      "Allergic reactions"
+    ],
+    "banned_in": [],
+    "reason": [
+      "May cause allergic response in sensitive skin"
+    ]
+  },
+  {
+    "ingredient": "Glycol Stearate",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Pore clogging",
+      "Acne"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Used for texture; comedogenic"
+    ]
+  },
+  {
+    "ingredient": "PEG-100 Stearate",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Carcinogen contamination"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "May contain 1,4-dioxane"
+    ]
+  },
+  {
+    "ingredient": "Alkyl Acrylate Crosspolymer",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Synthetic thickener with potential irritation"
+    ]
+  },
+  {
+    "ingredient": "Hydroxyethyl Urea",
+    "aliases": [],
+    "risk_level": "Low",
+    "health_risks": [
+      "Skin irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Synthetic humectant with mild irritation potential"
+    ]
+  },
+  {
+    "ingredient": "Isoceteth-20",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "1,4-Dioxane risk",
+      "Skin irritation"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Ethoxylated compound"
+    ]
+  },
+  {
+    "ingredient": "PPG-26-Buteth-26",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin sensitization"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Penetration enhancer; can cause irritation"
+    ]
+  },
+  {
+    "ingredient": "C12-15 Alkyl Benzoate",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin barrier disruption"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Synthetic emollient"
+    ]
+  },
+  {
+    "ingredient": "Sodium Lauroyl Sarcosinate",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Nitrosamine contamination risk"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "May form carcinogenic nitrosamines"
+    ]
+  },
+  {
+    "ingredient": "Myristyl Alcohol",
+    "aliases": [],
+    "risk_level": "Low",
+    "health_risks": [
+      "Skin irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Fatty alcohol that can irritate sensitive skin"
+    ]
+  },
+  {
+    "ingredient": "Octyldodecanol",
+    "aliases": [],
+    "risk_level": "Low",
+    "health_risks": [
+      "Pore clogging"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Emollient that may cause breakouts"
+    ]
+  },
+  {
+    "ingredient": "Menthyl Lactate",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Sensory irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Cooling agent that may irritate mucosa"
+    ]
+  },
+  {
+    "ingredient": "Caprylic Triglyceride",
+    "aliases": [],
+    "risk_level": "Low",
+    "health_risks": [
+      "Acne",
+      "Breakouts"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Mild comedogenic in oily skin types"
+    ]
+  },
+  {
+    "ingredient": "Isostearyl Alcohol",
+    "aliases": [],
+    "risk_level": "Low",
+    "health_risks": [
+      "Skin irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Emollient; may cause sensitivity"
+    ]
+  },
+  {
+    "ingredient": "Polyglyceryl-3 Diisostearate",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Pore clogging"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Can cause acne in sensitive individuals"
+    ]
+  },
+  {
+    "ingredient": "Triacetin",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation",
+      "Dryness"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Solvent used in fragrance"
+    ]
+  },
+  {
+    "ingredient": "Stearyl Alcohol",
+    "aliases": [],
+    "risk_level": "Low",
+    "health_risks": [
+      "Pore clogging"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Can be comedogenic in large amounts"
+    ]
+  },
+  {
+    "ingredient": "Myristic Acid",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Irritation",
+      "Comedogenicity"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Fatty acid, pore-clogging potential"
+    ]
+  },
+  {
+    "ingredient": "Polysorbate 80",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "1,4-Dioxane contamination risk"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Ethoxylated compound with possible impurities"
+    ]
+  },
+  {
+    "ingredient": "Ammonium Acryloyldimethyltaurate",
+    "aliases": [],
+    "risk_level": "Low",
+    "health_risks": [
+      "Mild irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Synthetic polymer for gel-like texture"
+    ]
+  },
+  {
+    "ingredient": "Sorbitan Oleate",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Acne",
+      "Irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "May clog pores"
+    ]
+  },
+  {
+    "ingredient": "Lauroyl Lysine",
+    "aliases": [],
+    "risk_level": "Low",
+    "health_risks": [
+      "Skin dryness"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Used to enhance product feel; mildly drying"
+    ]
+  },
+  {
+    "ingredient": "Isobutylparaben",
+    "aliases": [
+      "Paraben"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Hormone disruption",
+      "Endocrine interference"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Less common paraben variant with estrogenic activity"
+    ]
+  },
+  {
+    "ingredient": "Methylchloroisothiazolinone (CMIT)",
+    "aliases": [
+      "MCI"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Skin sensitization",
+      "Allergic reactions"
+    ],
+    "banned_in": [
+      "EU (leave-on products)"
+    ],
+    "reason": [
+      "Potent skin allergen often used in combination with MIT"
+    ]
+  },
+  {
+    "ingredient": "Cyclotetrasiloxane (D4)",
+    "aliases": [
+      "D4 Siloxane"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Endocrine disruption",
+      "Reproductive harm"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Volatile silicone classified as toxic to reproduction"
+    ]
+  },
+  {
+    "ingredient": "Diisobutyl Phthalate (DIBP)",
+    "aliases": [
+      "DIBP"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Hormone disruption",
+      "Birth defects"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Plasticizer associated with reproductive and endocrine toxicity"
+    ]
+  },
+  {
+    "ingredient": "Chlorocresol",
+    "aliases": [
+      "p-Chloro-m-cresol"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation",
+      "Allergic dermatitis"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Preservative that may cause allergic skin reactions"
+    ]
+  },
+  {
+    "ingredient": "Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate",
+    "aliases": [
+      "PTBBA"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin sensitization",
+      "Environmental persistence"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Antioxidant with suspected irritant properties"
+    ]
+  },
+  {
+    "ingredient": "Alkyl Cinnamates",
+    "aliases": [
+      "Octyl Cinnamate",
+      "Ethylhexyl Cinnamate"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Hormone disruption",
+      "Skin sensitivity"
+    ],
+    "banned_in": [
+      "EU (restricted concentrations)"
+    ],
+    "reason": [
+      "UV filters suspected to act as endocrine disruptors"
+    ]
+  },
+  {
+    "ingredient": "Sodium Benzoate (with Citric Acid)",
+    "aliases": [
+      "Sodium Benzoate",
+      "E211"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Potential benzene formation",
+      "Hyperactivity in children"
+    ],
+    "banned_in": [
+      "Restricted in some EU countries"
+    ],
+    "reason": [
+      "Forms benzene when combined with citric acid and heat; linked to cancer risk"
+    ]
+  },
+  {
+    "ingredient": "Tetrasodium EDTA",
+    "aliases": [
+      "EDTA",
+      "Ethylenediaminetetraacetic acid"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin penetration enhancer",
+      "May increase absorption of toxic metals"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Enhances penetration of other harmful substances through the skin"
+    ]
+  },
+  {
+    "ingredient": "Synthetic Musks (Tonalide, Galaxolide)",
+    "aliases": [
+      "Tonalide",
+      "Galaxolide",
+      "Musk Ketone"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Hormone disruption",
+      "Bioaccumulation"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Persistent in the body and environment, acts as an endocrine disruptor"
+    ]
+  },
+  {
+    "ingredient": "Sodium Chlorite",
+    "aliases": [
+      "NaClO2"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Respiratory irritation",
+      "Organ damage"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Oxidizing agent with toxicity concerns in high concentrations"
+    ]
+  },
+  {
+    "ingredient": "Isopropyl Myristate",
+    "aliases": [
+      "IPM"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Pore clogging",
+      "Skin irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Comedogenic and may worsen acne"
+    ]
+  },
+  {
+    "ingredient": "D&C Red 7",
+    "aliases": [
+      "Red 7 Lake",
+      "CI 15850"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Allergic reactions",
+      "Bioaccumulation"
+    ],
+    "banned_in": [
+      "Some EU restrictions"
+    ],
+    "reason": [
+      "Synthetic dye with potential allergic responses"
+    ]
+  },
+  {
+    "ingredient": "Propylparaben",
+    "aliases": [
+      "Paraben",
+      "E216"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Hormone disruption",
+      "Reproductive toxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Endocrine disruptor in the paraben family"
+    ]
+  },
+  {
+    "ingredient": "FD&C Green No. 3",
+    "aliases": [
+      "Fast Green FCF",
+      "CI 42053"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Hyperactivity in children",
+      "Cancer risk"
+    ],
+    "banned_in": [
+      "Banned in some countries"
+    ],
+    "reason": [
+      "Synthetic colorant derived from coal tar with toxicity concerns"
+    ]
+  },
+  {
+    "ingredient": "Isopropyl Lanolate",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Pore clogging",
+      "Allergic reactions"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Lanolin derivative that may cause acne and skin allergies"
+    ]
+  },
+  {
+    "ingredient": "Oleamide DEA",
+    "aliases": [
+      "Diethanolamide"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Nitrosamine formation",
+      "Organ toxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Can form carcinogenic nitrosamines"
+    ]
+  },
+  {
+    "ingredient": "Talc (Non-cosmetic grade)",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Ovarian cancer",
+      "Lung disease"
+    ],
+    "banned_in": [
+      "EU (with asbestos contamination)"
+    ],
+    "reason": [
+      "Often contaminated with asbestos unless purified"
+    ]
+  },
+  {
+    "ingredient": "Sodium Cocoate",
+    "aliases": [
+      "Coconut oil soap base"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation",
+      "Allergic contact dermatitis"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Natural-derived but can cause reactions in sensitive individuals"
+    ]
+  },
+  {
+    "ingredient": "Methylisobutyl Ketone (MIBK)",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Neurotoxicity",
+      "Respiratory issues"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Used as solvent, toxic to nervous system"
+    ]
+  },
+  {
+    "ingredient": "Aluminum Powder",
+    "aliases": [
+      "CI 77000"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Neurotoxicity",
+      "Alzheimer’s disease link"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Accumulation in brain tissue suspected in neurodegenerative diseases"
+    ]
+  },
+  {
+    "ingredient": "Petroleum Distillates",
+    "aliases": [
+      "Mineral Spirits",
+      "Naphtha"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer risk",
+      "Skin defatting"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Impurities like benzene can be carcinogenic"
+    ]
+  },
+  {
+    "ingredient": "Benzyl Benzoate",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation",
+      "Endocrine disruption"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Used as fragrance and preservative with hormonal activity"
+    ]
+  },
+  {
+    "ingredient": "Ammonium Persulfate",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Asthma",
+      "Severe skin irritation"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Used in hair bleaches; strong respiratory allergen"
+    ]
+  },
+  {
+    "ingredient": "Imidazolidinyl Urea",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Formaldehyde release",
+      "Skin allergies"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Preservative that releases formaldehyde, a known allergen"
+    ]
+  },
+  {
+    "ingredient": "Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde",
+    "aliases": [
+      "Lyral"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Allergic contact dermatitis"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Synthetic fragrance known to cause skin allergies"
+    ]
+  },
+  {
+    "ingredient": "Sodium Lauryl Sulfate",
+    "aliases": [
+      "SLS"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation",
+      "Strips natural oils"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Strong surfactant, harsh on skin barrier"
+    ]
+  },
+  {
+    "ingredient": "Sodium Laureth Sulfate",
+    "aliases": [
+      "SLES"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "1,4-Dioxane contamination",
+      "Eye irritation"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Can be contaminated with a known carcinogen"
+    ]
+  },
+  {
+    "ingredient": "Parabens",
+    "aliases": [
+      "Methylparaben",
+      "Propylparaben",
+      "Butylparaben"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Hormone disruption",
+      "Reproductive issues"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Mimics estrogen and can disrupt endocrine function"
+    ]
+  },
+  {
+    "ingredient": "Formaldehyde Releasers",
+    "aliases": [
+      "DMDM Hydantoin",
+      "Imidazolidinyl Urea"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer",
+      "Skin allergies"
+    ],
+    "banned_in": [
+      "EU",
+      "Japan"
+    ],
+    "reason": [
+      "Releases formaldehyde, a known carcinogen"
+    ]
+  },
+  {
+    "ingredient": "Polyethylene (Microbeads)",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin damage",
+      "Environmental pollution"
+    ],
+    "banned_in": [
+      "Many countries (microbeads ban)"
+    ],
+    "reason": [
+      "Harsh physical exfoliant and microplastic pollutant"
+    ]
+  },
+  {
+    "ingredient": "Methylisothiazolinone",
+    "aliases": [
+      "MIT"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Skin allergies",
+      "Neurotoxicity"
+    ],
+    "banned_in": [
+      "EU (leave-on products)"
+    ],
+    "reason": [
+      "Preservative with high allergic potential"
+    ]
+  },
+  {
+    "ingredient": "Alcohol Denat (Denatured Alcohol)",
+    "aliases": [
+      "SD Alcohol"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Dryness",
+      "Skin barrier disruption"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Quick drying, but strips oils and irritates sensitive skin"
+    ]
+  },
+  {
+    "ingredient": "BHT (Butylated Hydroxytoluene)",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Hormone disruption",
+      "Liver toxicity"
+    ],
+    "banned_in": [
+      "EU",
+      "Canada"
+    ],
+    "reason": [
+      "Synthetic antioxidant with possible carcinogenic effects"
+    ]
+  },
+  {
+    "ingredient": "Polyquaternium-7",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin sensitization"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Cationic polymer that can be irritating"
+    ]
+  },
+  {
+    "ingredient": "Siloxanes (D4, D5)",
+    "aliases": [
+      "Cyclopentasiloxane",
+      "Cyclotetrasiloxane"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Endocrine disruption",
+      "Environmental toxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Bioaccumulative and toxic to reproduction"
+    ]
+  },
+  {
+    "ingredient": "FD&C Colorants",
+    "aliases": [
+      "Red 33",
+      "Blue 1",
+      "Yellow 5"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Allergic reactions",
+      "Hyperactivity"
+    ],
+    "banned_in": [
+      "Some colorants banned in EU"
+    ],
+    "reason": [
+      "Synthetic dyes derived from coal tar"
+    ]
+  },
+  {
+    "ingredient": "Lanolin",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Pore clogging",
+      "Allergies"
+    ],
+    "banned_in": [],
+    "reason": [
+      "May be contaminated with pesticides"
+    ]
+  },
+  {
+    "ingredient": "Ammonium Lauryl Sulfate",
+    "aliases": [
+      "ALS"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Dryness",
+      "Eye irritation"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Strong detergent with skin-stripping effect"
+    ]
+  },
+  {
+    "ingredient": "Polyethylene Glycol (PEG)",
+    "aliases": [
+      "PEG-40",
+      "PEG-150"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Dioxane contamination",
+      "Dry scalp"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Often contaminated with carcinogens"
+    ]
+  },
+  {
+    "ingredient": "Synthetic Colors",
+    "aliases": [
+      "FD&C Red 4",
+      "CI 17200",
+      "Blue 1"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin allergies",
+      "Toxic absorption"
+    ],
+    "banned_in": [
+      "Some EU bans"
+    ],
+    "reason": [
+      "Coal tar-derived colors"
+    ]
+  },
+  {
+    "ingredient": "Silicones",
+    "aliases": [
+      "Dimethicone",
+      "Cyclopentasiloxane",
+      "Amodimethicone"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Build-up",
+      "Hair thinning"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Can coat hair and clog follicles"
+    ]
+  },
+  {
+    "ingredient": "Sodium Chloride",
+    "aliases": [
+      "Salt"
+    ],
+    "risk_level": "Low",
+    "health_risks": [
+      "Scalp dryness",
+      "Affects keratin treatments"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Increases viscosity, may irritate scalp"
+    ]
+  },
+  {
+    "ingredient": "Triethanolamine (TEA)",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Allergies",
+      "Nitrosamine formation"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Reacts with nitrates to form carcinogens"
+    ]
+  },
+  {
+    "ingredient": "Chloroxylenol (PCMX)",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin dryness",
+      "Hormone disruption"
+    ],
+    "banned_in": [
+      "Some restrictions"
+    ],
+    "reason": [
+      "Used as antiseptic, endocrine concerns"
+    ]
+  },
+  {
+    "ingredient": "Cetrimonium Chloride",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin irritation",
+      "Eye damage"
+    ],
+    "banned_in": [
+      "Restricted in EU (>0.1%)"
+    ],
+    "reason": [
+      "Used as a preservative and detangler, toxic at high levels"
+    ]
+  },
+  {
+    "ingredient": "Behentrimonium Methosulfate",
+    "aliases": [],
+    "risk_level": "Low to Moderate",
+    "health_risks": [
+      "Scalp buildup",
+      "Mild irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Synthetic emulsifier, can irritate sensitive skin"
+    ]
+  },
+  {
+    "ingredient": "Cocamidopropyl Betaine",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Allergies",
+      "Skin irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Derived from coconut oil but linked to contact dermatitis"
+    ]
+  },
+  {
+    "ingredient": "Colorants (FD&C / D&C)",
+    "aliases": [
+      "CI 17200",
+      "Red 33",
+      "Yellow 5"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Allergies",
+      "Toxic absorption"
+    ],
+    "banned_in": [
+      "Some dyes banned in EU"
+    ],
+    "reason": [
+      "Synthetic dyes linked to allergies and hyperactivity"
+    ]
+  },
+  {
+    "ingredient": "DMDM Hydantoin",
+    "aliases": [
+      "Formaldehyde Releaser"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Hair fall",
+      "Scalp burns"
+    ],
+    "banned_in": [
+      "EU",
+      "Japan"
+    ],
+    "reason": [
+      "Preservative that slowly releases formaldehyde"
+    ]
+  },
+  {
+    "ingredient": "Alcohol Denat",
+    "aliases": [
+      "Denatured Alcohol",
+      "SD Alcohol"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Dryness",
+      "Breakage"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Dries hair shafts, leads to brittleness"
+    ]
+  },
+  {
+    "ingredient": "Mineral Oil",
+    "aliases": [
+      "Liquid Paraffin",
+      "Petrolatum",
+      "Paraffinum Liquidum"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Follicle blockage",
+      "Build-up",
+      "Slows hair growth"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Petroleum-derived; may clog pores and contain carcinogenic PAHs if unrefined"
+    ]
+  },
+  {
+    "ingredient": "Artificial Colors (FD&C Dyes)",
+    "aliases": [
+      "CI 17200",
+      "Red 33",
+      "Yellow 5"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin sensitivity",
+      "Hyperactivity"
+    ],
+    "banned_in": [
+      "Some dyes restricted in EU"
+    ],
+    "reason": [
+      "Synthetic dyes with potential toxicity"
+    ]
+  },
+  {
+    "ingredient": "Preservatives with Formaldehyde",
+    "aliases": [
+      "DMDM Hydantoin",
+      "Imidazolidinyl Urea"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Formaldehyde release",
+      "Scalp irritation"
+    ],
+    "banned_in": [
+      "EU",
+      "Japan"
+    ],
+    "reason": [
+      "Linked to cancer and hair fall"
+    ]
+  },
+  {
+    "ingredient": "Phthalates",
+    "aliases": [
+      "DEP",
+      "DBP"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Fertility problems",
+      "Endocrine disruption"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Plasticizer sometimes hidden in fragrance"
+    ]
+  },
+  {
+    "ingredient": "Petrolatum (unrefined)",
+    "aliases": [
+      "Soft Paraffin"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer risk",
+      "Blocked scalp pores"
+    ],
+    "banned_in": [
+      "EU (if unrefined)"
+    ],
+    "reason": [
+      "May contain polycyclic aromatic hydrocarbons (PAHs)"
+    ]
+  },
+  {
+    "ingredient": "Coloring Coal Tar Derivatives",
+    "aliases": [
+      "CI 77891",
+      "CI 60730"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Skin cancer",
+      "Scalp allergies"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Derived from coal tar, linked to carcinogenic effects"
+    ]
+  },
+  {
+    "ingredient": "Methylchloroisothiazolinone",
+    "aliases": [
+      "MCI"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Skin irritation",
+      "Scalp allergy"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Harsh preservative banned in leave-on products"
+    ]
+  },
+  {
+    "ingredient": "Lanolin (Low Quality)",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Allergic reactions",
+      "Pesticide contamination"
+    ],
+    "banned_in": [],
+    "reason": [
+      "May be contaminated with environmental toxins"
+    ]
+  },
+  {
+    "ingredient": "Butylated Hydroxyanisole (BHA)",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Carcinogenicity",
+      "Endocrine disruption"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Preservative linked to tumors and hormone interference"
+    ]
+  },
+  {
+    "ingredient": "Octinoxate",
+    "aliases": [
+      "Ethylhexyl Methoxycinnamate"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Hormone disruption",
+      "Skin allergies"
+    ],
+    "banned_in": [
+      "EU",
+      "Hawaii (environmental ban)"
+    ],
+    "reason": [
+      "UV filter with estrogen-like activity"
+    ]
+  },
+  {
+    "ingredient": "Oxybenzone",
+    "aliases": [
+      "Benzophenone-3"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "Thyroid disruption",
+      "Cell damage"
+    ],
+    "banned_in": [
+      "EU",
+      "Hawaii"
+    ],
+    "reason": [
+      "UV filter banned for coral toxicity and hormonal effects"
+    ]
+  },
+  {
+    "ingredient": "Talc (with asbestos)",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Ovarian cancer",
+      "Lung irritation"
+    ],
+    "banned_in": [
+      "EU (if asbestos-contaminated)"
+    ],
+    "reason": [
+      "Talc may be contaminated with asbestos"
+    ]
+  },
+  {
+    "ingredient": "Lanolin (Low Purity)",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Allergic reactions",
+      "Pesticide contamination"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Can be contaminated if not highly purified"
+    ]
+  },
+  {
+    "ingredient": "Homosalate",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Hormonal activity",
+      "Cell toxicity"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Breaks down into toxic byproducts and accumulates in the body"
+    ]
+  },
+  {
+    "ingredient": "Avobenzone (unstabilized)",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin sensitivity",
+      "Degrades in sun"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Not harmful itself but unstable; can cause irritation if not stabilized"
+    ]
+  },
+  {
+    "ingredient": "Padimate O",
+    "aliases": [
+      "Octyl Dimethyl PABA"
+    ],
+    "risk_level": "High",
+    "health_risks": [
+      "DNA damage",
+      "Free radical production"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "PABA derivative that increases skin damage under UV"
+    ]
+  },
+  {
+    "ingredient": "Octisalate",
+    "aliases": [
+      "Ethylhexyl Salicylate"
+    ],
+    "risk_level": "Low to Moderate",
+    "health_risks": [
+      "Skin allergies"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Used as UVB absorber; can irritate sensitive skin"
+    ]
+  },
+  {
+    "ingredient": "Retinyl Palmitate (Vitamin A Palmitate)",
+    "aliases": [],
+    "risk_level": "Moderate to High",
+    "health_risks": [
+      "Photo-carcinogenicity",
+      "Skin sensitivity"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Can break down in sunlight into toxic compounds"
+    ]
+  },
+  {
+    "ingredient": "Tocopheryl Acetate (synthetic Vitamin E)",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Allergies",
+      "Contact dermatitis"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Synthetic form more irritating than natural tocopherol"
+    ]
+  },
+  {
+    "ingredient": "Colorants (FD&C Dyes)",
+    "aliases": [
+      "CI 17200",
+      "Red 33"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Skin allergies",
+      "Hyperactivity"
+    ],
+    "banned_in": [
+      "Some banned in EU"
+    ],
+    "reason": [
+      "Synthetic dyes derived from coal tar"
+    ]
+  },
+  {
+    "ingredient": "Talc (if asbestos-contaminated)",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer",
+      "Lung issues"
+    ],
+    "banned_in": [
+      "EU (with asbestos contamination)"
+    ],
+    "reason": [
+      "Talc may contain asbestos unless purified"
+    ]
+  },
+  {
+    "ingredient": "BHA (Butylated Hydroxyanisole)",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer",
+      "Hormone disruption"
+    ],
+    "banned_in": [
+      "EU",
+      "California (Prop 65)"
+    ],
+    "reason": [
+      "Synthetic antioxidant linked to tumors"
+    ]
+  },
+  {
+    "ingredient": "Artificial Colors",
+    "aliases": [
+      "Red 7 Lake",
+      "CI 15850",
+      "FD&C Dyes"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Allergies",
+      "Toxic absorption"
+    ],
+    "banned_in": [
+      "Some colors banned in EU"
+    ],
+    "reason": [
+      "Coal tar-based dyes may be carcinogenic"
+    ]
+  },
+  {
+    "ingredient": "Lanolin (Low-grade)",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Pesticide contamination",
+      "Allergic reactions"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Animal-derived wax often contaminated unless purified"
+    ]
+  },
+  {
+    "ingredient": "Flavoring Agents",
+    "aliases": [
+      "Synthetic Flavors",
+      "Aroma"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Ingestion of chemicals",
+      "Allergies"
+    ],
+    "banned_in": [
+      "Some restricted in EU"
+    ],
+    "reason": [
+      "Artificial flavors often contain hidden additives"
+    ]
+  },
+  {
+    "ingredient": "Sodium Saccharin",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Cancer risk (in animals)",
+      "Metabolic impact"
+    ],
+    "banned_in": [
+      "Banned then re-approved in US"
+    ],
+    "reason": [
+      "Artificial sweetener sometimes used in flavored balms"
+    ]
+  },
+  {
+    "ingredient": "Synthetic Waxes",
+    "aliases": [
+      "Polyethylene Wax",
+      "Paraffin Wax"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Lip clogging",
+      "Non-biodegradable"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Derived from petroleum, can cause barrier issues"
+    ]
+  },
+  {
+    "ingredient": "FD&C Blue 1",
+    "aliases": [
+      "CI 42090"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Allergic reactions",
+      "Ingestion concerns"
+    ],
+    "banned_in": [
+      "Restricted in some countries"
+    ],
+    "reason": [
+      "Synthetic colorant with some toxicity reports"
+    ]
+  },
+  {
+    "ingredient": "Titanium Dioxide (Nano form)",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Cell toxicity",
+      "DNA damage (nano form)"
+    ],
+    "banned_in": [
+      "EU (nano inhalation use)"
+    ],
+    "reason": [
+      "Safe in cream, but unsafe in nanoparticle form for lips"
+    ]
+  },
+  {
+    "ingredient": "Fluoride (in excess)",
+    "aliases": [
+      "Sodium Fluoride",
+      "Stannous Fluoride"
+    ],
+    "risk_level": "Moderate to High",
+    "health_risks": [
+      "Dental fluorosis",
+      "Bone weakness"
+    ],
+    "banned_in": [
+      "Limited in some countries"
+    ],
+    "reason": [
+      "Safe in small doses; excessive use can cause toxicity"
+    ]
+  },
+  {
+    "ingredient": "Carrageenan",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Inflammation",
+      "Ulceration"
+    ],
+    "banned_in": [
+      "EU (for infants)"
+    ],
+    "reason": [
+      "Food-grade thickener linked to gut inflammation"
+    ]
+  },
+  {
+    "ingredient": "Titanium Dioxide",
+    "aliases": [
+      "CI 77891"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Cancer (nano form)",
+      "DNA damage"
+    ],
+    "banned_in": [
+      "France (food)",
+      "EU (restricted in nano form)"
+    ],
+    "reason": [
+      "Used for whitening; concern in nanoparticle form"
+    ]
+  },
+  {
+    "ingredient": "Aspartame",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Headaches",
+      "Neurological effects"
+    ],
+    "banned_in": [
+      "Restricted in some countries"
+    ],
+    "reason": [
+      "Artificial sweetener with metabolic and neurological concerns"
+    ]
+  },
+  {
+    "ingredient": "DEA (Diethanolamine)",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Cancer risk",
+      "Organ toxicity"
+    ],
+    "banned_in": [
+      "EU"
+    ],
+    "reason": [
+      "Forms carcinogenic nitrosamines"
+    ]
+  },
+  {
+    "ingredient": "Hydrated Silica",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Enamel erosion",
+      "Gum irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Overuse can wear away enamel and irritate soft tissues"
+    ]
+  },
+  {
+    "ingredient": "Sodium Benzoate",
+    "aliases": [
+      "E211"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Forms benzene with Vitamin C",
+      "Hyperactivity"
+    ],
+    "banned_in": [
+      "Restricted in some EU countries"
+    ],
+    "reason": [
+      "Preservative with controversy in acidic formulations"
+    ]
+  },
+  {
+    "ingredient": "Flavoring Agents (Synthetic)",
+    "aliases": [
+      "Menthol",
+      "Eugenol",
+      "Clove Oil (synthetic)"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Burning sensation",
+      "Allergies"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Artificial flavors may irritate or cause reactions"
+    ]
+  },
+  {
+    "ingredient": "Microbeads (Polyethylene)",
+    "aliases": [
+      "Plastic Scrub Particles"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Enamel damage",
+      "Environmental microplastics"
+    ],
+    "banned_in": [
+      "US, Canada, UK"
+    ],
+    "reason": [
+      "Banned due to pollution and oral abrasion risk"
+    ]
+  },
+  {
+    "ingredient": "Chlorhexidine (long-term use)",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Taste alteration",
+      "Staining",
+      "Allergic reaction"
+    ],
+    "banned_in": [
+      "Restricted in over-the-counter use (UK)"
+    ],
+    "reason": [
+      "Antiseptic used in prescription mouthwashes, not for daily use"
+    ]
+  },
+  {
+    "ingredient": "Chlorine Dioxide",
+    "aliases": [],
+    "risk_level": "High",
+    "health_risks": [
+      "Tooth enamel erosion",
+      "Toxic ingestion"
+    ],
+    "banned_in": [
+      "EU",
+      "Canada"
+    ],
+    "reason": [
+      "Used in teeth whitening pastes"
+    ]
+  },
+  {
+    "ingredient": "Menthol (Synthetic)",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Burning",
+      "Mucosal irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Can cause inflammation when overused"
+    ]
+  },
+  {
+    "ingredient": "Sorbitol (Excess)",
+    "aliases": [],
+    "risk_level": "Low to Moderate",
+    "health_risks": [
+      "Laxative effect",
+      "Digestive upset"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Common sweetener; toxic if swallowed in excess"
+    ]
+  },
+  {
+    "ingredient": "Calcium Sodium Phosphosilicate",
+    "aliases": [
+      "NovaMin"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Calcification of soft tissues"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Bioactive glass under research, safety not fully established"
+    ]
+  },
+  {
+    "ingredient": "Polyvinylpyrrolidone (PVP)",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Tissue build-up",
+      "Unknown long-term effects"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Used for film formation"
+    ]
+  },
+  {
+    "ingredient": "Tetrasodium Pyrophosphate",
+    "aliases": [
+      "TSPP"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Oral sensitivity",
+      "Mineral imbalance"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Used to prevent tartar buildup; irritant in high doses"
+    ]
+  },
+  {
+    "ingredient": "Sodium Carbonate Peroxide",
+    "aliases": [
+      "Oxygen bleach"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Tooth sensitivity"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Whitening ingredient; harsh on enamel"
+    ]
+  },
+  {
+    "ingredient": "Camphor",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Toxic if swallowed",
+      "Neurological effects"
+    ],
+    "banned_in": [
+      "EU (in oral use)"
+    ],
+    "reason": [
+      "Used for flavor and cooling effect"
+    ]
+  },
+  {
+    "ingredient": "Eugenol",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Irritation",
+      "Allergic reaction"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Used in clove oil-based pastes"
+    ]
+  },
+  {
+    "ingredient": "Ammonium Glycyrrhizinate",
+    "aliases": [],
+    "risk_level": "Low to Moderate",
+    "health_risks": [
+      "Hormone mimic"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Licorice-derived anti-inflammatory; affects cortisol"
+    ]
+  },
+  {
+    "ingredient": "Stevia Extract (High Dose)",
+    "aliases": [
+      "Rebaudioside A"
+    ],
+    "risk_level": "Low",
+    "health_risks": [
+      "GI upset in children"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Generally safe, but overdose may affect microbiome"
+    ]
+  },
+  {
+    "ingredient": "Artificial Sweeteners (General)",
+    "aliases": [
+      "Acesulfame K",
+      "Sucralose"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Metabolic impact",
+      "Sweetness addiction"
+    ],
+    "banned_in": [
+      "Restricted in baby products"
+    ],
+    "reason": [
+      "Non-nutritive sweeteners with controversial health effects"
+    ]
+  },
+  {
+    "ingredient": "Silica Hydrate (Abrasive form)",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Enamel wear",
+      "Gum abrasion"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Used for cleaning; can be harsh if overused"
+    ]
+  },
+  {
+    "ingredient": "Calcium Carbonate (excessive use)",
+    "aliases": [],
+    "risk_level": "Low to Moderate",
+    "health_risks": [
+      "Tooth abrasion"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Too much can damage enamel"
+    ]
+  },
+  {
+    "ingredient": "Disodium Phosphate",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Oral irritation"
+    ],
+    "banned_in": [],
+    "reason": [
+      "pH buffer, may irritate sensitive gums"
+    ]
+  },
+  {
+    "ingredient": "Carbomer",
+    "aliases": [],
+    "risk_level": "Low to Moderate",
+    "health_risks": [
+      "Mouth dryness"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Synthetic thickener with mild drying effect"
+    ]
+  },
+  {
+    "ingredient": "Benzaldehyde",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Allergic reactions",
+      "Swallowing risk"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Artificial almond flavor"
+    ]
+  },
+  {
+    "ingredient": "EDTA",
+    "aliases": [
+      "Disodium EDTA",
+      "Tetrasodium EDTA"
+    ],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Absorption of toxins"
+    ],
+    "banned_in": [
+      "Restricted in EU"
+    ],
+    "reason": [
+      "Used to stabilize formulas; can increase penetration of toxins"
+    ]
+  },
+  {
+    "ingredient": "Zinc Chloride (high concentration)",
+    "aliases": [],
+    "risk_level": "Moderate",
+    "health_risks": [
+      "Metallic taste",
+      "Nausea"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Used for tartar control but irritating in excess"
+    ]
+  },
+  {
+    "ingredient": "Glycerin (low quality)",
+    "aliases": [],
+    "risk_level": "Low to Moderate",
+    "health_risks": [
+      "Coats teeth, hinders remineralization"
+    ],
+    "banned_in": [],
+    "reason": [
+      "Not toxic, but controversial in natural oral care"
+    ]
+  },
+  {
+    "ingredient": "Hydrogen Peroxide (in whitening pastes)",
+    "aliases": [],
+    "risk_level": "Moderate to High",
+    "health_risks": [
+      "Enamel erosion",
+      "Mouth ulcers"
+    ],
+    "banned_in": [
+      "Restricted for daily use"
+    ],
+    "reason": [
+      "Whitening agent; too strong for long-term use"
+    ]
+  },
+  {
+    "ingredient": "Sodium Lauryl Sulphate",
+    "aliases": ["SLS", "Sodium Lauryl Sulfate"],
+    "risk_level": "Medium",
+    "reason": "Can cause mouth and skin irritation, especially for sensitive individuals.",
+    "health_risks": ["Oral irritation", "Skin irritation", "Canker sores"],
+    "banned_in": []
+  },
+  {
+    "ingredient": "Triclocarban",
+    "aliases": [],
+    "risk_level": "High",
+    "reason": "Antibacterial agent banned in many countries due to hormone disruption concerns.",
+    "health_risks": ["Hormone disruption", "Skin irritation"],
+    "banned_in": ["USA"]
+  },
+  {
+    "ingredient": "Limonene",
+    "aliases": [],
+    "risk_level": "Medium",
+    "reason": "Fragrance allergen, known skin irritant.",
+    "health_risks": ["Skin irritation", "Allergic reaction"],
+    "banned_in": ["EU (requires label warning)"]
+  },
+  {
+    "ingredient": "Linalool",
+    "aliases": [],
+    "risk_level": "Medium",
+    "reason": "Fragrance allergen, may cause skin sensitivity.",
+    "health_risks": ["Skin irritation", "Allergic reaction"],
+    "banned_in": ["EU (requires label warning)"]
+  },
+  {
+    "ingredient": "Citral",
+    "aliases": [],
+    "risk_level": "Medium",
+    "reason": "Fragrance allergen, skin sensitizer.",
+    "health_risks": ["Skin irritation", "Allergic reaction"],
+    "banned_in": ["EU (requires label warning)"]
+  },
+  {
+    "ingredient": "Geraniol",
+    "aliases": [],
+    "risk_level": "Medium",
+    "reason": "Fragrance allergen, skin sensitizer.",
+    "health_risks": ["Skin irritation", "Allergic reaction"],
+    "banned_in": ["EU (requires label warning)"]
+  },
+  {
+    "ingredient": "Hexyl Cinnamal",
+    "aliases": [],
+    "risk_level": "Medium",
+    "reason": "Fragrance allergen linked to skin reactions.",
+    "health_risks": ["Skin irritation", "Allergic reaction"],
+    "banned_in": ["EU (requires label warning)"]
+  },
+  {
+    "ingredient": "Citronellol",
+    "aliases": [],
+    "risk_level": "Medium",
+    "reason": "Fragrance allergen, skin sensitizer.",
+    "health_risks": ["Skin irritation", "Allergic reaction"],
+    "banned_in": ["EU (requires label warning)"]
+  },
+  {
+    "ingredient": "Benzyl Alcohol",
+    "aliases": [],
+    "risk_level": "Medium",
+    "reason": "Can cause skin and mucous membrane irritation.",
+    "health_risks": ["Skin irritation", "Eye irritation"],
+    "banned_in": []
+  },
+  {
+    "ingredient": "PEG-32",
+    "aliases": ["Polyethylene Glycol 32"],
+    "risk_level": "Medium",
+    "reason": "May be contaminated with 1,4-dioxane, a potential carcinogen.",
+    "health_risks": ["Cancer risk (trace contamination)", "Skin irritation"],
+    "banned_in": []
+  },
+  {
+    "ingredient": "Trisodium Phosphate",
+    "aliases": [],
+    "risk_level": "Medium",
+    "reason": "Industrial cleaning agent, controversial for use in food and cosmetics.",
+    "health_risks": ["Skin irritation", "Eye irritation"],
+    "banned_in": []
+  },
+  {
+    "ingredient": "Tetrasodium EDTA",
+    "aliases": [],
+    "risk_level": "Low",
+    "reason": "Mild skin sensitizer and environmental pollutant.",
+    "health_risks": ["Skin irritation"],
+    "banned_in": []
+  },
+  {
+    "ingredient": "Tetrasodium Etidronate",
+    "aliases": [],
+    "risk_level": "Low",
+    "reason": "Potential skin sensitizer, used as a water softener and preservative.",
+    "health_risks": ["Skin irritation"],
+    "banned_in": []
+  },
+  {
+    "ingredient": "Methylparaben",
+    "aliases": ["Paraben", "Parabens"],
+    "risk_level": "High",
+    "reason": "Preservative linked to hormone disruption.",
+    "health_risks": ["Hormone disruption", "Fertility issues"],
+    "banned_in": ["EU (certain concentrations)"]
+  },
+  {
+    "ingredient": "Propylparaben",
+    "aliases": ["Paraben", "Parabens"],
+    "risk_level": "High",
+    "reason": "Preservative linked to endocrine disruption.",
+    "health_risks": ["Hormone disruption", "Reproductive toxicity"],
+    "banned_in": ["EU"]
+  },
+  {
+  "ingredient": "Titanium Dioxide",
+  "aliases": ["CI 77891"],
+  "risk_level": "High",
+  "health_risks": ["Lung cancer risk (inhalation)", "Respiratory damage"],
+  "banned_in": ["Restricted in EU (in spray/aerosols)"],
+  "reason": ["Carcinogenic when inhaled in nanoparticle form"]
+},
+{
+  "ingredient": "Synthetic Colorants (FD&C dyes)",
+  "aliases": ["CI 74160", "CI 74260", "FD&C Blue No. 1", "FD&C Green No. 7"]
+}
+]
